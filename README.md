@@ -15,3 +15,4 @@ me he puesto a actualizar el readme.md en esta rama y ahora haré el commit a la
 git switch main 
 - `git merge commit`y `push origin main`
 siempre con git status de por medio para verificar posibles errores como antes.
+- al realizar el merge a las 16:43 ha hecho un fastforward, por ello no queda reflejado el merge en el gráfico
